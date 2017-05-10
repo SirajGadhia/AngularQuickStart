@@ -1,12 +1,15 @@
 import { Component, OnInit } from '@angular/core';
 import { ElementRef} from '@angular/core';
 import { GlobalState } from '../global.state';
+import { fadeIn, fadeInUp, fadeInDown, fadeInLeft, fadeInRight  } from '../animations';
+
 //declare var jQuery:any;
 
 @Component({
   selector: 'home',
   templateUrl: 'home.component.html',
-  styleUrls: ['home.component.css']
+  styleUrls: ['home.component.css'],
+   animations: [ fadeIn, fadeInUp, fadeInDown, fadeInLeft, fadeInRight  ]
 })
 export class HomeComponent implements OnInit {
 

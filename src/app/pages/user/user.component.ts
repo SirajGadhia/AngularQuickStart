@@ -1,5 +1,6 @@
 import {Component} from '@angular/core';
 import { GlobalState } from '../../global.state';
+import { fadeIn, fadeInUp, fadeInDown } from '../../animations';
 import { UserRxService } from '../../services/user.rx.service';
 import { User } from '../../models/user';
 import {
@@ -10,7 +11,8 @@ import {
 @Component({
   selector: 'user',
   templateUrl: './user.html',
-  providers:[UserRxService]
+  providers:[UserRxService],
+  animations: [ fadeIn, fadeInUp, fadeInDown ]
 })
 export class UserComponent {
 public title:String = "User Profiles"
