@@ -1,0 +1,3 @@
+https://calebcwells.github.io/angular2-animate.css/fade-in
+https://github.com/calebcwells/angular2-animate.css
+https://coursetro.com/posts/code/63/Angular-4-Animation-Tutorial
