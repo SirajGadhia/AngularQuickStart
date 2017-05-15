@@ -1,3 +1,33 @@
+Animation TS Class for ng4+ base on animate.css:
 https://calebcwells.github.io/angular2-animate.css/fade-in
 https://github.com/calebcwells/angular2-animate.css
 https://coursetro.com/posts/code/63/Angular-4-Animation-Tutorial
+
+Confirme directive
+http://stackoverflow.com/questions/43632416/angular-4-confirm-directive
+
+Using Bootstrap dropdown in Angular 2 without jQuery
+http://blog.papaiatis.com/2017/01/30/using-bootstrap-dropdown-in-angular-2-without-jquery/
+
+To fix navbare after scrool
+http://brianflove.com/2016/10/10/angular-2-window-scroll-event-using-hostlistener/
+
+Angular Component Resources
+https://github.com/SirajGadhia/awesome-angular-components
+
+
+D3 Chart wapper
+https://swimlane.github.io/ngx-charts/#/ngx-charts/bar-horizontal
+https://github.com/SirajGadhia/ngx-charts
+
+Pipes - utility 
+https://github.com/fknop/angular-pipes
+https://github.com/danrevah/ngx-pipes
+https://github.com/a8m/ng-pipes
+
+
+doc
+https://github.com/compodoc/compodoc
+
+Tour:
+https://isaacplmann.github.io/ng2-tour/
